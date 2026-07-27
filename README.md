@@ -1,1 +1,1 @@
-Hi , it's me Zeyad one of the problem setter team in Acpc community in my Colledge  so i creat this repo to share the solution of all problems in marathon https://codeforces.com/group/QI9pPpkbDH/contests
+As a member of the ACPC Community Problem Setters team at my college, I created this repository to share solutions to some marathon-related problems  https://codeforces.com/group/QI9pPpkbDH/contests
